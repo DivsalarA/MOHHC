@@ -1,4 +1,5 @@
-A Variable Neighborhood Search Method for the Multi-Objective Home Care Service Planning
+Multi-Objective Home Health Care Routing: A Variable Neighborhood Search Method
+
 Sets of Test Instances: Small, Large, Case study
 
 Authors: Ghazaleh Kordi; Ali Divsalar; Saeed Emami
